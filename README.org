@@ -1,3 +1,5 @@
 #+TITLE: Readpool
 
 Small experiments in Clojure to improve the writing process.
+
+* Installation
