@@ -3,3 +3,5 @@
 Small experiments in Clojure to improve the writing process.
 
 * Installation
+
+* Usage
